@@ -6,7 +6,7 @@
 
 #header
 {
-	background: #ff0000;
+	background: #156800;
 	padding: 20px;
 }
 
@@ -38,7 +38,7 @@
 	padding: 5px 10px;
 	color: #fff;
 	text-decoration: none;
-	border-right: 1px solid #fff;
+	border-right: 3px solid #fff;
 }
 
 #navigation li a:hover { background: #383; }
@@ -62,7 +62,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: #000000;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -88,8 +88,8 @@
 #footer
 {
 	clear: both;
-	background: #FF0000;
-	text-align: right;
+	background: #156800;
+	text-align: left;
 	padding: 20px;
 	height: 1%;
 }
